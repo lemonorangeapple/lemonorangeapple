@@ -1,6 +1,6 @@
 # Hello 👋
 <div align="center">
-<a href="//jcj.ztxs.gq">My Blogs</a>
+<a href="//imjcj.eu.org">My Blogs</a>
 </div>
 <div align="center">
 你好，我的第<img src="https://profile-counter.glitch.me/lemonorangeapple/count.svg" />位访问者！
