@@ -1,3 +1,5 @@
+<p align="center">由于不可控原因，我要短暂的离别，9月再见！</p>
+
 <p align="center">你好，我的第<a><img src="https://profile-counter.glitch.me/lemonorangeapple/count.svg" /></a>名访问者</p>
 
 <p align="center"><a href="http://imjcj.eu.org">My Blogs</a></p>
