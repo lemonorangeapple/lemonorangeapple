@@ -1,3 +1,3 @@
-此 Github 帐户的所有仓库均已停止更新，请访问 <https://gitlab.com/TheFinalBird/> 以获取更新。
+感谢您莅临鄙人的主页，您一定英俊潇洒、玉树临风、足智多谋或美若天仙、百媚千娇、才高八斗吧！
 
-> All repositories of this Github account was stopped updating, please access <https://gitlab.com/TheFinalBird/> to get update.
+> Thank you for visiting my homepage, you must be handsome, graceful, resourceful or beautiful, charming and talented!
