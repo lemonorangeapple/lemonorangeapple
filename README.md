@@ -30,14 +30,14 @@
 
 ![](https://skillicons.dev/icons?i=cpp,cmake,qt)
 
-### 全栈开发
+### DevOps
 
 
 生产技术栈
 
-![](https://skillicons.dev/icons?i=py,flask,redis,bootstrap,html)
+![](https://skillicons.dev/icons?i=py,flask,redis,html)
 
-开发测试技术栈
+开发技术栈
 
 ![](https://skillicons.dev/icons?i=nodejs,nextjs,react,js,ts,tailwind)
 
