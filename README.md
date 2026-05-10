@@ -30,19 +30,22 @@
 
 ![](https://skillicons.dev/icons?i=cpp,cmake,qt)
 
-### DevOps
+### Dev
 
 
-生产技术栈
+技术栈1
 
 ![](https://skillicons.dev/icons?i=py,flask,redis,html)
 
-开发技术栈
+技术栈2
 
-![](https://skillicons.dev/icons?i=nodejs,nextjs,react,js,ts,tailwind)
+![](https://skillicons.dev/icons?i=astro,ts,tailwind)
 
+技术栈3
 
-### 平时瞎搞
+![](https://skillicons.dev/icons?i=react,ts,tailwind)
+
+### Ops
 
 ![](https://skillicons.dev/icons?i=cloudflare,workers,vercel,docker,debian,raspberrypi)
 
