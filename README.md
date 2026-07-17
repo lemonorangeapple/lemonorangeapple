@@ -43,7 +43,7 @@
 
 技术栈3
 
-![](https://skillicons.dev/icons?i=react,ts,tailwind)
+![](https://skillicons.dev/icons?i=nextjs,ts,tailwind)
 
 ### Ops
 
