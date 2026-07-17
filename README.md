@@ -35,15 +35,15 @@
 
 技术栈1
 
-![](https://skillicons.dev/icons?i=py,flask,redis,html)
+![](https://skillicons.dev/icons?i=astro,ts,tailwind)
 
 技术栈2
 
-![](https://skillicons.dev/icons?i=astro,ts,tailwind)
+![](https://skillicons.dev/icons?i=nextjs,ts,tailwind)
 
 技术栈3
 
-![](https://skillicons.dev/icons?i=nextjs,ts,tailwind)
+![](https://skillicons.dev/icons?i=flask,html,bootstrap)
 
 ### Ops
 
