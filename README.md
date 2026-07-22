@@ -14,12 +14,6 @@
 
 你可以去看看[我的网站](https://www.imjcj.eu.org)。
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lemonorangeapple/lemonorangeapple/refs/heads/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lemonorangeapple/lemonorangeapple/refs/heads/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lemonorangeapple/lemonorangeapple/refs/heads/output/pacman-contribution-graph.svg">
-</picture>
-
 ## 目前技术栈
 
 ### 基础技能
@@ -48,4 +42,3 @@
 ### Ops
 
 ![](https://skillicons.dev/icons?i=cloudflare,workers,vercel,docker,debian,raspberrypi)
-
