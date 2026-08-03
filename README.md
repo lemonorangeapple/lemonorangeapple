@@ -33,7 +33,7 @@
 
 技术栈2
 
-![](https://skillicons.dev/icons?i=flask,html,bootstrap)
+![](https://skillicons.dev/icons?i=flask,html,js,bootstrap)
 
 ### Ops
 
