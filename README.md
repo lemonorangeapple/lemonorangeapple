@@ -2,7 +2,7 @@
   <img height="80" src="https://avatars.githubusercontent.com/u/107529938?v=4&size=80"  />
 </div>
 
-<p align="center">一个热爱编程的学生<br>熟悉全栈开发、C++数据结构、Qt开发等</p>
+<p align="center">一个热爱编程的学生<br>熟悉全栈开发、基础运维、C++数据结构、Qt开发等</p>
 
 <p align="center"><code>(self || self = new Self())</code></p>
 
